@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/lU7o8+2/sU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Даниил\\Documents\\MultiTool\\HomeChats\\Chat-6\\sk-kontakt\\desktop\\SKContact.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512"
+  ],
+  "logs": []
+}

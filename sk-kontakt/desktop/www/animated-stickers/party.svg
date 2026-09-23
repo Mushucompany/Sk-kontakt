@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<style>
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.b{animation:bounce .9s ease-in-out infinite}
+@keyframes fall{0%{transform:translateY(0);opacity:1}100%{transform:translateY(44px);opacity:0}}
+.f1{animation:fall 1.6s infinite}
+.f2{animation:fall 1.6s .2s infinite}
+.f3{animation:fall 1.6s .4s infinite}
+</style>
+<g class="b">
+<path d="M18 76L12 58l8-2 5 18-7 2z" fill="#c084fc"/>
+<path d="M24 72l12-24 5 6-10 18-7 0z" fill="#60a5fa"/>
+<path d="M34 48l4-8 5 3-4 8z" fill="#f472b6"/>
+<circle class="f1" cx="52" cy="34" r="4" fill="#fbbf24"/>
+<circle class="f2" cx="66" cy="26" r="3" fill="#34d399"/>
+<circle class="f3" cx="76" cy="40" r="4" fill="#60a5fa"/>
+</g>
+</svg>

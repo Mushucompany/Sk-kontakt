@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<style>
+@keyframes wink{0%,88%,100%{transform:scaleY(1)}92%{transform:scaleY(.1)}}
+.wink{transform-origin:50% 50%;animation:wink 2.4s infinite}
+</style>
+<circle cx="50" cy="50" r="42" fill="#ffd93d"/>
+<circle cx="34" cy="40" r="6" fill="#333"/>
+<g class="wink"><circle cx="66" cy="40" r="6" fill="#333"/></g>
+<path d="M30 62c4 8 12 12 20 12s16-4 20-12" stroke="#333" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,4 @@
+C:\Users\Даниил\Documents\MultiTool\HomeChats\Chat-6\sk-kontakt\desktop\bin\Release\net9.0-windows\win-x64\publish\Microsoft.Web.WebView2.Core.xml
+C:\Users\Даниил\Documents\MultiTool\HomeChats\Chat-6\sk-kontakt\desktop\bin\Release\net9.0-windows\win-x64\publish\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Даниил\Documents\MultiTool\HomeChats\Chat-6\sk-kontakt\desktop\bin\Release\net9.0-windows\win-x64\publish\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Даниил\Documents\MultiTool\HomeChats\Chat-6\sk-kontakt\desktop\bin\Release\net9.0-windows\win-x64\publish\SKContact.exe
